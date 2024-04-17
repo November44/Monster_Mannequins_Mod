@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Mannequin_Mod",
+    "name": "Mannequin Mod",
+    "authors": [ "N11" ],
+    "description": "Add fake furniture monsters (V-0.1)",
+    "category": "content",
+    "dependencies": [ "bn" ]
+  }
+ ]

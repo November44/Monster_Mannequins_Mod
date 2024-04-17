@@ -1,0 +1,20 @@
+[
+{
+    "id": "zombie_MQM",
+    "type": "GENERIC",
+    "category": "tools",
+    "name": { "str": "Fake zombie" },
+    "description": "Folded camp chair, deploy to sit down.",
+    "weight": "1000 g",
+    "volume": "2500 ml",
+    "price": 5000,
+    "price_postapoc": 100,
+    "to_hit": -4,
+    "bashing": 3,
+    "looks_like": "survnote",
+    "material": [ "paper" ],
+    "symbol": "#",
+    "color": "light_gray",
+    "use_action": { "type": "deploy_furn", "furn_type": "zombie_f" }
+  }
+]
